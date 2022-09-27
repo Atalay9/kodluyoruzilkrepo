@@ -2,6 +2,9 @@
 
 Bu repo Kodluyoruz Eğitimi kapsamında oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
 
+### Patika
+[Patika.dev](https://patika.dev) üzerinden eğitimleri alabilirsiniz.
+
 ### Installation
 Öncelikle projeyi clonelayın. 
 ```
